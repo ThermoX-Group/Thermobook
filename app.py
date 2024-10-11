@@ -1,5 +1,14 @@
-x=5
-if x==5 :
-    print('salam dadash zade')
-else:
-    print('kooni hasti')
+# x = [1,2,3]
+# y = x.copy()
+# print(y)
+#
+#
+# x = 'Im amirmahdi barzegar'
+#
+# print(x.count(" "))
+
+# x = 'saLam dadaSh cheTori KhObi?'
+# print(x.casefold())
+# print(x.lower())
+# khob zaneto gaidam ina ke jofteshon yekie chi begam :)
+
